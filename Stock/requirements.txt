@@ -3,3 +3,6 @@ djangorestframework
 markdown
 django-filter
 django-cors-headers
+axios
+@amcharts/amcharts4
+jquery
